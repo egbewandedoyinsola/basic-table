@@ -1,0 +1,34 @@
+table, th, td {
+  border: 1px solid white;
+  padding: 5px;
+  border-spacing: 5px;
+  
+  
+}
+table{
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(7, 84, 226);
+  color: white;
+  
+}
+
+
+
+.page-header{
+  text-align: center;
+  color: rgb(237, 32, 9);
+  
+}
+
+
+.row1 {
+  background-color: white;
+  color: rgb(48, 48, 99);
+}
+
+.row2 {
+  background-color: rgb(242, 161, 161);
+  color: rgb(6, 6, 221); 
+}
